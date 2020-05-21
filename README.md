@@ -1,2 +1,2 @@
-# corona-virus
-A repository of important resources/platforms concerning the corona virus
+# IMPORTANT URLs
+* https://github.com/ananyakr99/COVID-19
